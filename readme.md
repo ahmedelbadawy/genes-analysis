@@ -1,4 +1,4 @@
-# Genes analysis
+# Cancer detection
 -----
 ## Introduction
 This paper aims to improve cancer detection -for a certain type of cancer- using gene expression (GE) level as an identifier for the Lung Squamous Cell Carcinoma (LUSC). We are trying to find the correlation between gene expression levels for each gene in healthy sample and gene expression levels in cancerous sample. And using hypothesis testing to infer the deferentially expressed genes (DEGs).
