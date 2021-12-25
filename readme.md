@@ -46,10 +46,13 @@ Then we convert both lists of DEGs for paired samples after FDR correction and f
 ### Correlation
 
 As shown in figure 1. we sorted genes in ascending order based on their correlation coefficient, so, we noticed that the first gene in dataframe is the gene with the minimum correlation coefficient value, and the last gene in dataframe is the gene with the maximum correlation coefficient.
-![img1](images/fig1.png)
+
+![img1](images/fig1.PNG)
+
 <br />
 As shown in figure 2, the gene with the lowest negative correlation coefficient is FAM222B and the gene with the highest positive correlation coefficient is AREGB.
-![img2](images/fig2.png)
+
+![img2](images/fig2.PGN)
 
 As figure 3 shows, we plotted expression levels for cancer samples against expression levels for healthy samples according to the highest positive correlation coefficient. With CC nearly equal to 1, and for that we observe that almost expression levels in healthy samples are the same as expression levels in cancer samples.
 ![img3](images/fig3.png)
