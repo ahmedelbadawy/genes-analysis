@@ -52,7 +52,7 @@ As shown in figure 1. we sorted genes in ascending order based on their correlat
 <br />
 As shown in figure 2, the gene with the lowest negative correlation coefficient is FAM222B and the gene with the highest positive correlation coefficient is AREGB.
 
-![img2](images/fig2.PGN)
+![img2](images/fig2.PNG)
 
 As figure 3 shows, we plotted expression levels for cancer samples against expression levels for healthy samples according to the highest positive correlation coefficient. With CC nearly equal to 1, and for that we observe that almost expression levels in healthy samples are the same as expression levels in cancer samples.
 ![img3](images/fig3.png)
